@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hey, I’m Sahibnoor — a 2nd-year CS undergrad (AI & ML) from GGSIPU 🎓<br><br>I build smart systems that actually do stuff — from trading bots that sniff out alpha 📈 to dashboards that decode market noise 📊.<br><br>🧠 I vibe with all things AI, quant finance, and Web3 — especially when there's a chance to automate, optimize, or experiment. Whether it’s writing C++ orderbooks, hunting for arbitrage in prediction markets, or designing computer vision models, I like being at the edge of what tech can do.</p>
+<p align="left">👋 Hey, I’m Sahibnoor — a pre-final CS undergrad (AI & ML) from GGSIPU 🎓<br><br>I build smart systems that actually do stuff — from trading bots that sniff out alpha 📈 to dashboards that decode market noise 📊.<br><br>🧠 I vibe with all things AI, quant finance, and Web3 — especially when there's a chance to automate, optimize, or experiment. Whether it’s writing C++ orderbooks, hunting for arbitrage in prediction markets, or designing computer vision models, I like being at the edge of what tech can do.</p>
 
 ###
 
